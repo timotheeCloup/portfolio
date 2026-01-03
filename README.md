@@ -52,7 +52,7 @@ Joined the Investment Banking DataLab (20 data scientists & engineers).
 
 ---
 
-### <img src="./img/traxens.svg" width="100" align="left" hspace="0"> Data Analyst — *Traxens*  
+### <img src="./img/traxens.svg" width="100" align="top" hspace="10"> Data Analyst — *Traxens*  
 📍 Marseille, France, April 2024 - September 2024 \ 
 - Implemented data visualization using Power BI, connected directly to the Snowflake Data Warehouse.
 - Delivered client-facing dashboards enabling operational monitoring of **50000+ smart containers** across 3 major clients.
@@ -65,16 +65,16 @@ insights for Data and Customer Service teams.
 
 ## Education
 
-### <img src="./img/emse.png" width="40" align="left"> Computer Science Engineer — *Ecole des Mines de Saint-Étienne*
+### <img src="./img/emse.png" width="40" align="left" hspace="10"> Computer Science Engineer — *Ecole des Mines de Saint-Étienne*
 *2022 – 2025*
 * **Specialization:** Artificial Intelligence, Data Science, Embeded Systems
 * **Core Courses:** Machine Learning, Databases, Computer Systems and Architecture, System Design, Robotics
 
-### <img src="./img/cityU.svg" width="40" align="left"> Academic Exchange — *City University of Hong Kong*
+### <img src="./img/cityU.svg" width="40" align="left" hspace="10"> Academic Exchange — *City University of Hong Kong*
 *2024 – 2025*
 * **Specialization:** Data Science, Data Engineering
 * **Core Courses:** Machine Learning, Cloud Computing, Database Management
 
-### <img src="./img/lmm.png" width="40" align="left"> French "Classes Préparatoires" (CPGE) — *Lycée La Martinière Monplaisir, Lyon*
+### <img src="./img/lmm.png" width="40" align="left" hspace="10"> French "Classes Préparatoires" (CPGE) — *Lycée La Martinière Monplaisir, Lyon*
 *2019 – 2022*
 * **Core Courses:** Statistics, Algebra, Analysis, Physics, Engineering Sciences
