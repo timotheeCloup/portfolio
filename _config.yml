@@ -3,11 +3,13 @@ logo: "./img/fotor-2026010318485.png"
 theme: jekyll-theme-minimal
 show_downloads: false
 
-description: >
-  ## Data Scientist Junior
-  
-  ✉️ [timothee.cloupmartin@gmail.com](mailto:timothee.cloupmartin@gmail.com)  
-  📞 +33 6 48 88 11 36  
+description: |
+  Junior Data Scientist
+  <br>
+  ✉️ [timothee.cloupmartin@gmail.com](mailto:timothee.cloupmartin@gmail.com)
+  <br>
+  📞 +33 6 48 88 11 36
+  <br>
   🔗 [LinkedIn](https://fr.linkedin.com/in/timoth%C3%A9e-cloup-martin-b8b203252)
-
+  
 github_username: timotheeCloup
