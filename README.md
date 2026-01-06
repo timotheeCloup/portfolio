@@ -42,9 +42,9 @@ perform better than well-known methods such as Carlini & Wagner.
 
 ## Work Experience
 
-### <img src="./img/thales.png" width="80" align="bottom" hspace="10"> Data Scientist — *Thales*  
+### <img src="./img/thales.png" width="80" align="bottom" hspace="10"> Data Scientist Intern — *Thales*  
 📍 Saint-Etienne, France, April 2025 - October 2025  
-Joined the Investment Banking DataLab (20 data scientists & engineers).
+
 - Designed an AI model for early detection of surface anomalies on telephoto lenses during the polishing process, achieving 65% accuracy in predicting defect appearance before final inspection, despite operating in a constrained.
 - Analyzed FTM test bench data and optimized the acquisition range, **reducing re-testing for over 20%** of binocular units, resulting to recurring time savings and reduced operational costs in a high-cost production process.
 
@@ -52,7 +52,7 @@ Joined the Investment Banking DataLab (20 data scientists & engineers).
 
 ---
 
-### <img src="./img/traxens.svg" width="100" align="top" hspace="10"> Data Analyst — *Traxens*  
+### <img src="./img/traxens.svg" width="100" align="top" hspace="10"> Data Analyst Intern — *Traxens*  
 📍 Marseille, France, April 2024 - September 2024 \ 
 - Implemented data visualization using Power BI, connected directly to the Snowflake Data Warehouse.
 - Delivered client-facing dashboards enabling operational monitoring of **50000+ smart containers** across 3 major clients.
