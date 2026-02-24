@@ -23,6 +23,7 @@ Finding the perfect job shouldn't feel like looking for a needle in a haystack. 
 - Real-time Data Pipeline: I engineered a custom pipeline that ingests and processes **~1,200 Master’s level job offers** daily from France Travail.
 - AI-Powered Matching: Instead of simple keyword filtering, I used **Hugging Face models** to transform job descriptions into vector embeddings, capturing the "true meaning" behind every offer.
 - Instant Recommendations: I developed a FastAPI backend that compares a user's CV against the database to deliver the most relevant matches based on vector similarity.
+- Try it now: [CV Match Engine](https://cvee-ui-1081304882492.europe-west1.run.app/)
 
 > Stack: Python, Spark, Docker, Kubernetes, Databricks, AWS, FastAPI, Git
 
