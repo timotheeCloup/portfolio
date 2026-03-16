@@ -20,10 +20,11 @@
 
 ### 🎯  [CV Match Engine](https://github.com/timotheeCloup/CVEE)
 Finding the perfect job shouldn't feel like looking for a needle in a haystack. I built CVEE (CV Embedding Engine) to bridge the gap between complex resumes and thousands of daily job listings using the power of Semantic Search.
+
+Try it now: [CV Match Engine](https://cvee-ui-1081304882492.europe-west1.run.app/)
 - Real-time Data Pipeline: I engineered a custom pipeline that ingests and processes **~1,200 Master’s level job offers** daily from France Travail.
 - AI-Powered Matching: Instead of simple keyword filtering, I used **Hugging Face models** to transform job descriptions into vector embeddings, capturing the "true meaning" behind every offer.
 - Instant Recommendations: I developed a FastAPI backend that compares a user's CV against the database to deliver the most relevant matches based on vector similarity.
-- Try it now: [CV Match Engine](https://cvee-ui-1081304882492.europe-west1.run.app/)
 
 > Stack: Python, Spark, Docker, Kubernetes, Databricks, AWS, FastAPI, Git
 
@@ -42,6 +43,15 @@ perform better than well-known methods such as Carlini & Wagner.
 ---
 
 ## Work Experience
+
+### <img src="./img/xplnai.png" width="80" align="center" hspace="10"> Cloud Data Engineer — *xpln.ai*  
+📍 Paris, France, March 2025 - Present  
+
+- An innovative AdTech startup specializing in cross-platform attention measurement and creative intelligence to optimize advertising performance.
+
+> Stack: GCP, Airflow, DBT
+
+---
 
 ### <img src="./img/thales.png" width="80" align="bottom" hspace="10"> Data Scientist Intern — *Thales*  
 📍 Saint-Etienne, France, April 2025 - October 2025  
