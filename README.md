@@ -1,4 +1,4 @@
-# Computer Science Engineer
+# Data Engineer | AI & Cloud Infrastructure
 
 📧 [timothee.cloupmartin@gmail.com](mailto:timothee.cloupmartin@gmail.com) 🔗 [LinkedIn](https://fr.linkedin.com/in/timoth%C3%A9e-cloup-martin-b8b203252)
 
