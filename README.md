@@ -6,13 +6,18 @@
 🛠 **Technical Skills:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC9CFF?style=flat-square&logo=anthropic&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
 
 ---
 
@@ -26,7 +31,7 @@ Try it now: [CV Match Engine](https://cvee-ui-1081304882492.europe-west1.run.app
 - AI-Powered Matching: Instead of simple keyword filtering, I used **Hugging Face models** to transform job descriptions into vector embeddings, capturing the "true meaning" behind every offer.
 - Instant Recommendations: I developed a FastAPI backend that compares a user's CV against the database to deliver the most relevant matches based on vector similarity.
 
-> Stack: Python, Spark, Docker, Kubernetes, Databricks, AWS, FastAPI, Git
+> Stack: Python, GCP, Spark, Docker, Databricks, FastAPI, Github Action
 
 ---
 
@@ -48,8 +53,10 @@ perform better than well-known methods such as Carlini & Wagner.
 📍 Paris, France, March 2025 - Present  
 
 - An innovative AdTech startup specializing in cross-platform attention measurement and creative intelligence to optimize advertising performance.
+- Improving critical data pipelines processing over 250M+ impressions/day, enhancing the reliability and scalability of advertising measurement systems.
+- Design of an eye-tracking data weighting pipeline to align panelist distribution with real population demographics by country (MRC audit requirement).
 
-> Stack: GCP, Airflow, DBT
+> Stack: GCP, Airflow, DBT, Terraform, Claude Code
 
 ---
 
@@ -58,6 +65,7 @@ perform better than well-known methods such as Carlini & Wagner.
 
 - Designed an AI model for early detection of surface anomalies on telephoto lenses during the polishing process, achieving 65% accuracy in predicting defect appearance before final inspection, despite operating in a constrained.
 - Analyzed FTM test bench data and optimized the acquisition range, **reducing re-testing for over 20%** of binocular units, resulting to recurring time savings and reduced operational costs in a high-cost production process.
+  
 
 > Stack: Pandas, DuckDB, PostgreSQL, Docker
 
